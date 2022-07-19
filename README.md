@@ -12,13 +12,13 @@
 ### 🚀 Skills and Tools:
 
  
-<img align="center" title="javascript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" title="Java" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ <img align="center" title="javascript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" title="Spring" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+ <img align="center" title="MySQL" alt="mySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" title="HTML" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" title="Sass" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" title="MySQL" alt="mySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" title="Java" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" title="Spring" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" title="Sass" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">  
   <img align="center" title="Git" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
   
@@ -42,6 +42,6 @@
  
  <div align="left">
   <a href="https://github.com/FelipeAGomes">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FelipeAGomes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAGomes&layout=compact&langs_count=7&theme=github_dark&locale=pt-br"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FelipeAGomes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=en"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAGomes&layout=compact&langs_count=7&theme=github_dark&locale=en"/>
 </div>
