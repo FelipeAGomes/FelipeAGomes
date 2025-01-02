@@ -6,7 +6,7 @@
 <img align="right" width="300" src="https://raw.githubusercontent.com/FelipeAGomes/FelipeAGomes/de8d0c87cfe7e8f6d8678e490b118bf057d875a0/undraw_developer_activity_re_39tg.svg" />
 
 ### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" >, my name is Felipe Gomes!
-<p>I am <b>Junior Software Engineer</b>.</p>
+<p>I am a <b>Software Engineer</b> with a postgraduate degree in Software Engineering from <b>PUC Minas</b>.</p>
 
 ---
 ### 🚀 Skills and Tools:
